@@ -1,0 +1,34 @@
+Relax, it won't hurt...
+
+BREAKING NEWS: A famous goat surgeon announced this morning that he sucessfully performed a brain transplantation! This result could be the beginning of a new era for the medical industry and change the life of millions of people!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Surgeon Goat: You can extract the brain of creatures and inmplant them into other creatures.
+
+[b]KEYBOARD CONTROLS[/b]
+- [b][R]:[/b] Hold without moving to perform a surgery on the closest creature.
+
+[b]GAMEPAD CONTROLS[/b]
+- [b][Y]:[/b] Hold without moving to perform a surgery on the closest creature.
+
+[b]CHARACTERISTICS[/b]
+- If you preform a surgery on a creature with a brain, it's brain will be extracted.
+- If you preform a surgery on a creature with no brain, the brain you are currently licking will be given to it.
+- Swappers are unknown creatures able to transport their mind from one body to another.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Transplanting a brain from one spiece to another may result into horrifying aberrations. Have fun :p[/spoiler]
+- [spoiler]After making at least one transplantation, you main find a brain of Swapper...[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Poeple with no brain may still produce sounds.
+- Transplanted brains may fail to control correctly the new body they are in if it's too different from the original. (can't fix)
+
+[b]DEV NOTES[/b]
+[quote=About this mod]Actually, this one was easier than expected :) The original idea proposed on the request thread was to be able to give the AI of a NPC to another. I also used this mod to fullfill a request that was made several time about having a way to make NPCs passive.
+So the first thing I made in this mod was to store the important informations about the character AIs into a new brain object I made (based on the one you can find in GoatZ). Then I tried to give them to another NPC to see what happen... And it was working surprisingly well compared to what I thought :D All I had to do was storing a few more informations about the NPC animations and physics in order to make transplanted creature behave a bit more like the owner of their brain ^^
+When all that was done, there was another fun idea I had in mind for an easter egg in this mod... Basically I wanted to make a little AI that will be able to swap from one body to another :p So that's how I made the Swapper: it will permanently look for another body, and swap its AI with the one in that body when close enough ^^
+As always with new AIs, it took a few days to fix all the little bugs... For example I discovered a really funny but also annoying bug when you swap two AIs: the regular AI given to most NPC became agressive against the player X) I was able to figure out what was causing this behaviour and fix it, so it's no longer a problem ^^
+[/quote]
